@@ -1,0 +1,559 @@
+#commonButterfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 9) calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#yellowButterfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 8) calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#tigerButterfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 1) 0;
+  background-size: 1000%;
+}
+
+#peacockButterfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 5) calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#commonBluebottle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 5) 0px;
+  background-size: 1000%;
+}
+
+#paperKiteButterfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 7) calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#greatPurpleEmperor {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) 0 calc(-100% * 6);
+  background-size: 1000%;
+}
+
+#monachButterfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 8) calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#emperorButterfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) 0 calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#agriasButterfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 3) calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#rajaBrookesBirdwing {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 2) 0;
+  background-size: 1000%;
+}
+
+#queenAlexandrasBirdwing {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 6) 0;
+  background-size: 1000%;
+}
+
+#moth {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 2) calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#atlasMoth {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 8) calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#madagascanSunsetMoth {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 4) calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#longLocust {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 9) calc(-100% * 6);
+  background-size: 1000%;
+}
+
+#migratoryLocust {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 7) calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#riceGrasshopper {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 5) calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#grasshopper {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 7) calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#cricket {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 9) calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#bellCricket {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) 0 calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#mantis {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 2) calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#orchidMantis {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) 0 calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#honeybee {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 6) calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#wasp {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 8) calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#brownCicada {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) 0 0;
+  background-size: 1000%;
+}
+
+#robustCicada {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 4) calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#giantCicada {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 1) calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#walkerCicada {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 6) calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#eveningCicada {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 3) calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#cicadaShell {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 8) calc(-100% * 6);
+  background-size: 1000%;
+}
+
+#redDragonfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 3) 0;
+  background-size: 1000%;
+}
+
+#darnerDragonfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 4) calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#bandedDragonfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 3) calc(-100% * 6);
+  background-size: 1000%;
+}
+
+#damselfly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 8) calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#firefly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 5) calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#moleCricket {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 2) calc(-100% * 6);
+  background-size: 1000%;
+}
+
+#pondskater {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 4) 0;
+  background-size: 1000%;
+}
+
+#divingBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 3) calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#giantWaterBug {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 1) calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#stinkbug {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 3) calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#man-facedStinkBug {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 9) calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#ladybug {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 4) calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#tigerBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 1) calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#jewelBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 2) calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#violinBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 8) 0;
+  background-size: 1000%;
+}
+
+#citrusLong-hornedBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 6) calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#rosaliaBatesiBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 6) calc(-100% * 6);
+  background-size: 1000%;
+}
+
+#blueWeevilBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 6) calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#dungBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 1) calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#earth-boringDungBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 1) calc(-100% * 6);
+  background-size: 1000%;
+}
+
+#scarabBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 5) calc(-100% * 6);
+  background-size: 1000%;
+}
+
+#droneBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 4) calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#goliathBeetle {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 7) calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#sawStag {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 5) calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#miyamaStag {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 7) calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#giantStag {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 9) calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#rainbowStag {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 3) calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#cyclommatusStag {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 4) calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#goldenStag {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 4) calc(-100% * 6);
+  background-size: 1000%;
+}
+
+#giraffeStag {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 5) calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#hornedDynastid {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 1) calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#hornedAtlas {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 8) calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#hornedElephant {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 9) calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#hornedHerucles {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 2) calc(-100% * 2);
+  background-size: 1000%;
+}
+
+#walkingStick {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 2) calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#walkingLeaf {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) 0 calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#bagworm {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 5) calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#ant {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 7) 0;
+  background-size: 1000%;
+}
+
+#hermitCrab {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 7) calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#wharfRoach {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) 0 calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#fly {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 9) calc(-100% * 1);
+  background-size: 1000%;
+}
+
+#mosquito {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) 0 calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#flea {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 6) calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#Snail {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 6) calc(-100% * 3);
+  background-size: 1000%;
+}
+
+#pillBug {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 9) 0;
+  background-size: 1000%;
+}
+
+#centipede {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 1) calc(-100% * 5);
+  background-size: 1000%;
+}
+
+#spider {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 2) calc(-100% * 4);
+  background-size: 1000%;
+}
+
+#tarantula {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 3) calc(-100% * 7);
+  background-size: 1000%;
+}
+
+#scorpion {
+  width: 140px;
+  height: 140px;
+  background: url(acInsects.png) calc(-100% * 7) calc(-100% * 6);
+  background-size: 1000%;
+}

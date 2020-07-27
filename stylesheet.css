@@ -1,0 +1,81 @@
+
+#info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: radial-gradient(#ffffff61 20%, transparent 20%);
+  background-color: #eee5be;
+  background-size: 70px 70px;
+  background-position: 0 0;
+  animation: mymove 7s infinite;
+  animation-timing-function: linear;
+  border: 0.5px solid;
+  border-color: #bfbaa3;
+  display: none;
+  margin: auto;
+}
+
+@keyframes mymove {
+  100% {background-position: 140px 140px;}
+}
+
+#left {
+  width: 60%;
+  height: 95%;
+  background-color: #eee5be;
+  border-spacing: inherit;
+  margin: auto;
+  margin-top: 30px;
+}
+
+#tdSpace {
+  width: 75px;
+  height: 125px;
+}
+
+#table {
+  border-spacing: 0px;
+  background-color: #eee5be;
+  border-spacing: inherit;
+  display: block; margin-top: 120px
+}
+
+#scroll {
+  background-color: white;
+  display: inline-block;
+  border-radius: 20px;
+  margin-top: -20px;
+  position: fixed;
+  margin-left: 92%;
+  user-select: none;
+  cursor: pointer;
+}
+
+#scrollRound {
+  margin: 4px;
+  width: 30px;
+  height: 30px;
+  background-color: #584f4f;
+  border-radius: 50%;
+  margin-left: 5px;
+  border: 10px;
+  float: left
+}
+
+#h1Bla {
+  margin: 0;
+  display: inline-block;
+  font-size: 1.5em;
+  margin-left: 9px;
+  color: white;
+}
+
+#scrollText {
+  margin: 4px;
+  font-size: 1.5em;
+  color: #584f4f;
+  display: inline-block;
+  padding-right: 5px;
+}
