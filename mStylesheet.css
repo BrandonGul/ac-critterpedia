@@ -43,12 +43,13 @@
 }
 
 #scroll {
+  display: none !important;
   background-color: white;
   display: inline-block;
   border-radius: 20px;
   margin-top: -20px;
   position: fixed;
-  margin-left: calc(100% - 130px);
+  margin-left: 92%;
   user-select: none;
   cursor: pointer;
 }
