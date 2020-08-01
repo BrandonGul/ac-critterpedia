@@ -1,20 +1,21 @@
 
+h1 {
+  font-size: 1em
+}
+
+h2 {
+  font-size: 1em
+}
+
+h3 {
+  font-size: 1em
+}
+
+body {
+  margin: 0
+}
+
 #info {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-image: radial-gradient(#ffffff61 20%, transparent 20%);
-  background-color: #eee5be;
-  background-size: 70px 70px;
-  background-position: 0 0;
-  animation: mymove 7s infinite;
-  animation-timing-function: linear;
-  border: 0.5px solid;
-  border-color: #bfbaa3;
-  display: none;
-  margin: auto;
 }
 
 @keyframes mymove {
@@ -22,12 +23,9 @@
 }
 
 #left {
-  width: 60%;
-  height: 95%;
+  height: 100vh;
   background-color: #eee5be;
   border-spacing: inherit;
-  margin: auto;
-  margin-top: 30px;
 }
 
 #tdSpace {

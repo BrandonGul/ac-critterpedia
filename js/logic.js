@@ -15,15 +15,18 @@ var winX = 0;
 function show () {
   var x = document.getElementById("table");
   var y = document.getElementById("info");
+  var menu = document.getElementById("menu");
 
   if (y.style.display == "block") {
     y.style.display = "none";
+    menu.style.display = "block";
     x.style.display = "block";
     window.scrollTo(winX, 0);
   }
   else {
     winX = window.scrollX;
     y.style.display = "block";
+    menu.style.display = "none";
     x.style.display = "none";
 
     gen();
@@ -42,7 +45,14 @@ function show () {
 
   function format (data) {
 
-    return web(data);
+    let mql = window.matchMedia('(max-width: 800px)');
+
+    if (mql.matches) {
+      return mobile(data);
+    }
+    else {
+      return web(data);
+    }
 
   }
 }
