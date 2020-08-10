@@ -1,559 +1,559 @@
 #commonButterfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 9) calc(-100% * 4);
   background-size: 1000%;
 }
 
 #yellowButterfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 8) calc(-100% * 4);
   background-size: 1000%;
 }
 
 #tigerButterfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 1) 0;
   background-size: 1000%;
 }
 
 #peacockButterfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 5) calc(-100% * 3);
   background-size: 1000%;
 }
 
 #commonBluebottle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 5) 0px;
   background-size: 1000%;
 }
 
 #paperKiteButterfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 7) calc(-100% * 5);
   background-size: 1000%;
 }
 
 #greatPurpleEmperor {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) 0 calc(-100% * 6);
   background-size: 1000%;
 }
 
 #monachButterfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 8) calc(-100% * 5);
   background-size: 1000%;
 }
 
 #emperorButterfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) 0 calc(-100% * 5);
   background-size: 1000%;
 }
 
 #agriasButterfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 3) calc(-100% * 4);
   background-size: 1000%;
 }
 
 #rajaBrookesBirdwing {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 2) 0;
   background-size: 1000%;
 }
 
 #queenAlexandrasBirdwing {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 6) 0;
   background-size: 1000%;
 }
 
 #moth {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 2) calc(-100% * 1);
   background-size: 1000%;
 }
 
 #atlasMoth {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 8) calc(-100% * 7);
   background-size: 1000%;
 }
 
 #madagascanSunsetMoth {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 4) calc(-100% * 5);
   background-size: 1000%;
 }
 
 #longLocust {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 9) calc(-100% * 6);
   background-size: 1000%;
 }
 
 #migratoryLocust {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 7) calc(-100% * 2);
   background-size: 1000%;
 }
 
 #riceGrasshopper {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 5) calc(-100% * 7);
   background-size: 1000%;
 }
 
 #grasshopper {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 7) calc(-100% * 3);
   background-size: 1000%;
 }
 
 #cricket {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 9) calc(-100% * 3);
   background-size: 1000%;
 }
 
 #bellCricket {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) 0 calc(-100% * 7);
   background-size: 1000%;
 }
 
 #mantis {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 2) calc(-100% * 3);
   background-size: 1000%;
 }
 
 #orchidMantis {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) 0 calc(-100% * 2);
   background-size: 1000%;
 }
 
 #honeybee {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 6) calc(-100% * 4);
   background-size: 1000%;
 }
 
 #wasp {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 8) calc(-100% * 1);
   background-size: 1000%;
 }
 
 #brownCicada {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) 0 0;
   background-size: 1000%;
 }
 
 #robustCicada {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 4) calc(-100% * 4);
   background-size: 1000%;
 }
 
 #giantCicada {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 1) calc(-100% * 4);
   background-size: 1000%;
 }
 
 #walkerCicada {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 6) calc(-100% * 7);
   background-size: 1000%;
 }
 
 #eveningCicada {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 3) calc(-100% * 2);
   background-size: 1000%;
 }
 
 #cicadaShell {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 8) calc(-100% * 6);
   background-size: 1000%;
 }
 
 #redDragonfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 3) 0;
   background-size: 1000%;
 }
 
 #darnerDragonfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 4) calc(-100% * 1);
   background-size: 1000%;
 }
 
 #bandedDragonfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 3) calc(-100% * 6);
   background-size: 1000%;
 }
 
 #damselfly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 8) calc(-100% * 2);
   background-size: 1000%;
 }
 
 #firefly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 5) calc(-100% * 2);
   background-size: 1000%;
 }
 
 #moleCricket {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 2) calc(-100% * 6);
   background-size: 1000%;
 }
 
 #pondskater {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 4) 0;
   background-size: 1000%;
 }
 
 #divingBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 3) calc(-100% * 1);
   background-size: 1000%;
 }
 
 #giantWaterBug {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 1) calc(-100% * 7);
   background-size: 1000%;
 }
 
 #stinkbug {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 3) calc(-100% * 3);
   background-size: 1000%;
 }
 
 #man-facedStinkBug {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 9) calc(-100% * 2);
   background-size: 1000%;
 }
 
 #ladybug {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 4) calc(-100% * 7);
   background-size: 1000%;
 }
 
 #tigerBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 1) calc(-100% * 2);
   background-size: 1000%;
 }
 
 #jewelBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 2) calc(-100% * 7);
   background-size: 1000%;
 }
 
 #violinBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 8) 0;
   background-size: 1000%;
 }
 
 #citrusLong-hornedBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 6) calc(-100% * 1);
   background-size: 1000%;
 }
 
 #rosaliaBatesiBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 6) calc(-100% * 6);
   background-size: 1000%;
 }
 
 #blueWeevilBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 6) calc(-100% * 2);
   background-size: 1000%;
 }
 
 #dungBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 1) calc(-100% * 1);
   background-size: 1000%;
 }
 
 #earth-boringDungBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 1) calc(-100% * 6);
   background-size: 1000%;
 }
 
 #scarabBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 5) calc(-100% * 6);
   background-size: 1000%;
 }
 
 #droneBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 4) calc(-100% * 3);
   background-size: 1000%;
 }
 
 #goliathBeetle {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 7) calc(-100% * 1);
   background-size: 1000%;
 }
 
 #sawStag {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 5) calc(-100% * 5);
   background-size: 1000%;
 }
 
 #miyamaStag {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 7) calc(-100% * 4);
   background-size: 1000%;
 }
 
 #giantStag {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 9) calc(-100% * 5);
   background-size: 1000%;
 }
 
 #rainbowStag {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 3) calc(-100% * 5);
   background-size: 1000%;
 }
 
 #cyclommatusStag {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 4) calc(-100% * 2);
   background-size: 1000%;
 }
 
 #goldenStag {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 4) calc(-100% * 6);
   background-size: 1000%;
 }
 
 #giraffeStag {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 5) calc(-100% * 1);
   background-size: 1000%;
 }
 
 #hornedDynastid {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 1) calc(-100% * 3);
   background-size: 1000%;
 }
 
 #hornedAtlas {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 8) calc(-100% * 3);
   background-size: 1000%;
 }
 
 #hornedElephant {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 9) calc(-100% * 7);
   background-size: 1000%;
 }
 
 #hornedHerucles {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 2) calc(-100% * 2);
   background-size: 1000%;
 }
 
 #walkingStick {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 2) calc(-100% * 5);
   background-size: 1000%;
 }
 
 #walkingLeaf {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) 0 calc(-100% * 4);
   background-size: 1000%;
 }
 
 #bagworm {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 5) calc(-100% * 4);
   background-size: 1000%;
 }
 
 #ant {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 7) 0;
   background-size: 1000%;
 }
 
 #hermitCrab {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 7) calc(-100% * 7);
   background-size: 1000%;
 }
 
 #wharfRoach {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) 0 calc(-100% * 1);
   background-size: 1000%;
 }
 
 #fly {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 9) calc(-100% * 1);
   background-size: 1000%;
 }
 
 #mosquito {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) 0 calc(-100% * 3);
   background-size: 1000%;
 }
 
 #flea {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 6) calc(-100% * 5);
   background-size: 1000%;
 }
 
 #Snail {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 6) calc(-100% * 3);
   background-size: 1000%;
 }
 
 #pillBug {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 9) 0;
   background-size: 1000%;
 }
 
 #centipede {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 1) calc(-100% * 5);
   background-size: 1000%;
 }
 
 #spider {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 2) calc(-100% * 4);
   background-size: 1000%;
 }
 
 #tarantula {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 3) calc(-100% * 7);
   background-size: 1000%;
 }
 
 #scorpion {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url(acInsects.png) calc(-100% * 7) calc(-100% * 6);
   background-size: 1000%;
 }

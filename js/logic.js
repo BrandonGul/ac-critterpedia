@@ -63,18 +63,34 @@ function renderBugs() {
       i = 0,
       newDict = {'group0': {}, 'group1': {}, 'group2': {}, 'group3': {}, 'group4': {}};
 
-  formatStr += `
-  <tr>
-    <td colspan="18">
-      <div style="width: 100%; height: 2px; background-color: #bfbaa3; margin-top: -40px; margin-bottom: 50px">
+  let mql = window.matchMedia('(max-width: 800px)');
 
-      </div>
-    </td>
-  </tr>
+  if (mql.matches) {
+    formatStr += `
+    <tr>
+      <td colspan="18">
+        <div style="width: 100%; height: 2px; background-color: #bfbaa3; margin-top: 50px; margin-bottom: 30px">
 
-  <tr>
-  <td><div id="tdSpace"></div></td>
-  `;
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+    <td><div id="tdSpace"></div></td>`;
+  }
+  else {
+    formatStr += `
+    <tr>
+      <td colspan="18">
+        <div style="width: 100%; height: 2px; background-color: #bfbaa3; margin-top: -40px; margin-bottom: 50px">
+
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+    <td><div id="tdSpace"></div></td>`;
+  }
 
   for (var key in bugs) {
     i++;

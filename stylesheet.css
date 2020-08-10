@@ -21,6 +21,74 @@
   100% {background-position: 140px 140px;}
 }
 
+#menu {
+  width: 200px;
+  display: table;
+  margin-left: 20px;
+  position: fixed;
+  top: 0
+}
+
+#menuHead {
+  background-color: #ffce1ac4;
+  display: inline-block;
+  border-radius: 20px;
+  margin-left:  5px
+}
+
+#menuH1 {
+  margin: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 1.5em;
+  color: #584f4f
+}
+
+#menuButtons {
+  display: table;
+  margin: auto;
+  margin-top: -10px
+}
+
+#menuButton1 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block
+}
+
+#menuButton2 {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border-radius: 50%;
+  margin-left: -20px;
+  display: inline-block
+}
+
+#menuInsect {
+  background: url(acInsects.png) calc(-100% * 6) 0;
+  background-size: 1000%;
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  margin: auto;
+  margin-top: 25px;
+  cursor: pointer
+}
+
+#menuFish {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  margin: auto;
+  margin-top: 25px;
+  cursor: pointer;
+  text-align: center
+}
+
 #left {
   width: 60%;
   height: 95%;
