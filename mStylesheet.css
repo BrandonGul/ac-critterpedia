@@ -16,6 +16,7 @@ body {
 }
 
 #info {
+  display: none;
 }
 
 #menu {
@@ -66,7 +67,7 @@ body {
 }
 
 #menuInsect {
-  background: url(acInsects.png) calc(-100% * 6) 0;
+  background: url(images/acInsects.png) calc(-100% * 6) 0;
   background-size: 1000%;
   width: 25px;
   height: 25px;
