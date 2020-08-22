@@ -1,0 +1,87 @@
+.fishMobile {
+  width: 300px;
+  height: 150px;
+  background: url(../images/acFish.png);
+  background-size: 800%;
+}
+
+#bitterling.fishMobile {background-position: 85.7142857142% 88.8%;}
+#pale-chub.fishMobile {background-position: 28.5714285714% 66.6%;}
+#crucian-carp.fishMobile {background-position: 42.8571428571% 22.2%;}
+#dace.fishMobile {background-position: 28.5714285714% 100%;}
+#carp.fishMobile {background-position: 71.4285714285% 44.4%;}
+#koi.fishMobile {background-position: 0% 66.6%;}
+#goldfish.fishMobile {background-position: 42.8571428571% 44.4%;}
+#pop-eyed-goldfish.fishMobile {background-position: 28.5714285714% 11.1%;}
+#ranchu-goldfish.fishMobile {background-position: 28.5714285714% 77.7%;}
+#killifish.fishMobile {background-position: 28.5714285714% 55.5%;}
+#crawfish.fishMobile {background-position: 99.9999999999% 100%;}
+#soft-shelled-turtle.fishMobile {background-position: 28.5714285714% 88.8%;}
+#snapping-turtle.fishMobile {background-position: 0% 44.4%;}
+#tadpole.fishMobile {background-position: 57.1428571428% 66.6%;}
+#frog.fishMobile {background-position: 85.7142857142% 33.3%;}
+#freshwater-goby.fishMobile {background-position: 99.9999999999% 11.1%;}
+#loach.fishMobile {background-position: 57.1428571428% 11.1%;}
+#catfish.fishMobile {background-position: 57.1428571428% 55.5%;}
+#giant-snakehead.fishMobile {background-position: 0% 77.7%;}
+#bluegill.fishMobile {background-position: 99.9999999999% 0%;}
+#yellow-perch.fishMobile {background-position: 85.7142857142% 100%;}
+#black-bass.fishMobile {background-position: 85.7142857142% 0%;}
+#tilapia.fishMobile {background-position: 0% 100%;}
+#pike.fishMobile {background-position: 71.4285714285% 66.6%;}
+#pond-smelt.fishMobile {background-position: 57.1428571428% 100%;}
+#sweetfish.fishMobile {background-position: 57.1428571428% 0%;}
+#cherry-salmon.fishMobile {background-position: 71.4285714285% 100%;}
+#char.fishMobile {background-position: 42.8571428571% 66.6%;}
+#golden-trout.fishMobile {background-position: 71.4285714285% 22.2%;}
+#stringfish.fishMobile{background-position: 57.1428571428% 33.3%};
+#salmon.fishMobile {background-position: 71.4285714285% 77.7%;}
+#king-salmon.fishMobile {background-position: 28.5714285714% 44.4%;}
+#mitten-crab.fishMobile {background-position: 57.1428571428% 88.8%;}
+#guppy.fishMobile {background-position: 85.7142857142% 22.2%;}
+#nibble-fish.fishMobile {background-position: 71.4285714285% 11.1%;}
+#angelfish.fishMobile {background-position: 14.2857142857% 0%;}
+#betta.fishMobile {background-position: 71.4285714285% 0%;}
+#neon-tetra.fishMobile {background-position: 99.9999999999% 55.5%;}
+#rainbowfish.fishMobile {background-position: 14.2857142857% 77.7%;}
+#piranha.fishMobile {background-position: 85.7142857142% 66.6%;}
+#arowana.fishMobile {background-position: 42.8571428571% 0%;}
+#dorado.fishMobile {background-position: 85.7142857142% 11.1%;}
+#gar.fishMobile {background-position: 57.1428571428% 22.2%;}
+#arapaima.fishMobile {background-position: 99.9999999999% 66.6%;}
+#saddled-bichir.fishMobile {background-position: 14.2857142857% 22.2%;}
+#sturgeon.fishMobile {background-position: 14.2857142857% 100%;}
+#sea-butterfly.fishMobile {background-position: 99.9999999999% 44.4%;}
+#sea-horse.fishMobile {background-position: 99.9999999999% 88.8%;}
+#clown-fish.fishMobile {background-position: 85.7142857142% 44.4%;}
+#surgeonfish.fishMobile {background-position: 71.4285714285% 55.5%;}
+#butterfly-fish.fishMobile {background-position: 14.2857142857% 11.1%;}
+#napoleonfish.fishMobile {background-position: 85.7142857142% 55.5%;}
+#zebra-turkeyfish.fishMobile {background-position: 42.8571428571% 55.5%;}
+#blowfish.fishMobile {background-position: 28.5714285714% 22.2%;}
+#puffer-fish.fishMobile {background-position: 0% 33.3%;}
+#anchovy.fishMobile {background-position: 28.5714285714% 0%;}
+#horse-mackerel.fishMobile {background-position: 0% 0%;}
+#barred-knifejaw.fishMobile {background-position: 42.8571428571% 33.3%;}
+#sea-bass.fishMobile {background-position: 42.8571428571% 88.8%;}
+#red-snapper.fishMobile {background-position: 71.4285714285% 88.8%;}
+#dab.fishMobile {background-position: 14.2857142857% 44.4%;}
+#olive-flounder.fishMobile {background-position: 14.2857142857% 33.3%;}
+#squid.fishMobile {background-position: 28.5714285714% 33.3%;}
+#moray-eel.fishMobile {background-position: 42.8571428571% 100%;}
+#ribbon-eel.fishMobile {background-position: 99.9999999999% 22.2%;}
+#tuna.fishMobile {background-position: 0% 55.5%;}
+#blue-marlin.fishMobile {background-position: 99.9999999999% 33.3%;}
+#giant-trevally.fishMobile {background-position: 42.8571428571% 77.7%;}
+#mahi-mahi.fishMobile {background-position: 99.9999999999% 77.7%;}
+#ocean-sunfish.fishMobile {background-position: 14.2857142857% 55.5%;}
+#ray.fishMobile {background-position: 0% 22.2%;}
+#saw-shark.fishMobile {background-position: 14.2857142857% 66.6%;}
+#hammerhead-shark.fishMobile {background-position: 0% 88.8%;}
+#great-white-shark.fishMobile {background-position: 85.7142857142% 77.7%;}
+#whale-shark.fishMobile {background-position: 71.4285714285% 33.3%;}
+#suckerfish.fishMobile {background-position: 57.1428571428% 44.4%;}
+#football-fish.fishMobile {background-position: 0% 11.1%;}
+#oarfish.fishMobile {background-position: 57.1428571428% 77.7%;}
+#barreleye.fishMobile {background-position: 42.8571428571% 11.1%;}
+#coelacanth.fishMobile {background-position: 14.2857142857% 88.8%;}

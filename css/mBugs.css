@@ -1,0 +1,87 @@
+.bugsMobile {
+  width: 300px;
+  height: 300px;
+  background: url(../images/acInsects.png);
+  background-size: 1000%;
+}
+
+#commonButterfly.bugsMobile {background-position: calc(-100% * 9) calc(-100% * 4);}
+#yellowButterfly.bugsMobile {background-position: calc(-100% * 8) calc(-100% * 4);}
+#tigerButterfly.bugsMobile {background-position: calc(-100% * 1) calc(-100% * 0);}
+#peacockButterfly.bugsMobile {background-position: calc(-100% * 5) calc(-100% * 3);}
+#commonBluebottle.bugsMobile {background-position: calc(-100% * 5) calc(-100% * 0);}
+#paperKiteButterfly.bugsMobile {background-position: calc(-100% * 7) calc(-100% * 5);}
+#greatPurpleEmperor.bugsMobile {background-position: calc(-100% * 0) calc(-100% * 6);}
+#monachButterfly.bugsMobile {background-position: calc(-100% * 8) calc(-100% * 5);}
+#emperorButterfly.bugsMobile {background-position: calc(-100% * 0) calc(-100% * 5);}
+#agriasButterfly.bugsMobile {background-position: calc(-100% * 3) calc(-100% * 4);}
+#rajaBrookesBirdwing.bugsMobile {background-position: calc(-100% * 2) calc(-100% * 0);}
+#queenAlexandrasBirdwing.bugsMobile {background-position: calc(-100% * 6) calc(-100% * 0);}
+#moth.bugsMobile {background-position: calc(-100% * 2) calc(-100% * 0);}
+#atlasMoth.bugsMobile {background-position: calc(-100% * 8) calc(-100% * 7);}
+#madagascanSunsetMoth.bugsMobile {background-position: calc(-100% * 4) calc(-100% * 5);}
+#longLocust.bugsMobile {background-position: calc(-100% * 9) calc(-100% * 6);}
+#migratoryLocust.bugsMobile {background-position: calc(-100% * 7) calc(-100% * 2);}
+#riceGrasshopper.bugsMobile {background-position: calc(-100% * 5) calc(-100% * 7);}
+#grasshopper.bugsMobile {background-position: calc(-100% * 7) calc(-100% * 3);}
+#cricket.bugsMobile {background-position: calc(-100% * 9) calc(-100% * 3);}
+#bellCricket.bugsMobile {background-position: calc(-100% * 0) calc(-100% * 7);}
+#mantis.bugsMobile {background-position: calc(-100% * 3) calc(-100% * 3);}
+#orchidMantis.bugsMobile {background-position: calc(-100% * 0) calc(-100% * 2);}
+#honeybee.bugsMobile {background-position: calc(-100% * 6) calc(-100% * 4);}
+#wasp.bugsMobile {background-position: calc(-100% * 8) calc(-100% * 1);}
+#brownCicada.bugsMobile {background-position: calc(-100% * 0) calc(-100% * 0);}
+#robustCicada.bugsMobile {background-position: calc(-100% * 4) calc(-100% * 4);}
+#giantCicada.bugsMobile {background-position: calc(-100% * 1) calc(-100% * 4);}
+#walkerCicada.bugsMobile {background-position: calc(-100% * 6) calc(-100% * 7);}
+#eveningCicada.bugsMobile {background-position: calc(-100% * 3) calc(-100% * 2);}
+#cicadaShell.bugsMobile {background-position: calc(-100% * 8) calc(-100% * 6);}
+#redDragonfly.bugsMobile {background-position: calc(-100% * 3) calc(-100% * 0);}
+#darnerDragonfly.bugsMobile {background-position: calc(-100% * 4) calc(-100% * 1);}
+#bandedDragonfly.bugsMobile {background-position: calc(-100% * 3) calc(-100% * 6);}
+#damselfly.bugsMobile {background-position: calc(-100% * 8) calc(-100% * 2);}
+#firefly.bugsMobile {background-position: calc(-100% * 5) calc(-100% * 2);}
+#moleCricket.bugsMobile {background-position: calc(-100% * 2) calc(-100% * 6);}
+#pondskater.bugsMobile {background-position: calc(-100% * 4) calc(-100% * 0);}
+#divingBeetle.bugsMobile {background-position: calc(-100% * 3) calc(-100% * 1);}
+#giantWaterBug.bugsMobile {background-position: calc(-100% * 1) calc(-100% * 7);}
+#stinkbug.bugsMobile {background-position: calc(-100% * 3) calc(-100% * 3);}
+#man-facedStinkBug.bugsMobile {background-position: calc(-100% * 9) calc(-100% * 2);}
+#ladybug.bugsMobile {background-position: calc(-100% * 4) calc(-100% * 7);}
+#tigerBeetle.bugsMobile {background-position: calc(-100% * 1) calc(-100% * 2);}
+#jewelBeetle.bugsMobile {background-position: calc(-100% * 2) calc(-100% * 7);}
+#violinBeetle.bugsMobile {background-position: calc(-100% * 8) calc(-100% * 0);}
+#citrusLong-hornedBeetle.bugsMobile {background-position: calc(-100% * 6) calc(-100% * 1);}
+#rosaliaBatesiBeetle.bugsMobile {background-position: calc(-100% * 6) calc(-100% * 6);}
+#blueWeevilBeetle.bugsMobile {background-position: calc(-100% * 6) calc(-100% * 2);}
+#dungBeetle.bugsMobile {background-position: calc(-100% * 1) calc(-100% * 1);}
+#earth-boringDungBeetle.bugsMobile {background-position: calc(-100% * 1) calc(-100% * 6);}
+#scarabBeetle.bugsMobile {background-position: calc(-100% * 5) calc(-100% * 6);}
+#droneBeetle.bugsMobile {background-position: calc(-100% * 4) calc(-100% * 3);}
+#goliathBeetle.bugsMobile {background-position: calc(-100% * 7) calc(-100% * 1);}
+#sawStag.bugsMobile {background-position: calc(-100% * 5) calc(-100% * 5);}
+#miyamaStag.bugsMobile {background-position: calc(-100% * 7) calc(-100% * 4);}
+#giantStag.bugsMobile {background-position: calc(-100% * 9) calc(-100% * 5);}
+#rainbowStag.bugsMobile {background-position: calc(-100% * 3) calc(-100% * 5);}
+#cyclommatusStag.bugsMobile {background-position: calc(-100% * 4) calc(-100% * 2);}
+#goldenStag.bugsMobile {background-position: calc(-100% * 4) calc(-100% * 6);}
+#giraffeStag.bugsMobile {background-position: calc(-100% * 5) calc(-100% * 1);}
+#hornedDynastid.bugsMobile {background-position: calc(-100% * 1) calc(-100% * 3);}
+#hornedAtlas.bugsMobile {background-position: calc(-100% * 8) calc(-100% * 3);}
+#hornedElephant.bugsMobile {background-position: calc(-100% * 9) calc(-100% * 7);}
+#hornedHerucles.bugsMobile {background-position: calc(-100% * 2) calc(-100% * 2);}
+#walkingStick.bugsMobile {background-position: calc(-100% * 2) calc(-100% * 5);}
+#walkingLeaf.bugsMobile {background-position: calc(-100% * 0) calc(-100% * 4);}
+#bagworm.bugsMobile {background-position: calc(-100% * 5) calc(-100% * 4);}
+#ant.bugsMobile {background-position: calc(-100% * 7) calc(-100% * 0);}
+#hermitCrab.bugsMobile {background-position: calc(-100% * 7) calc(-100% * 7);}
+#wharfRoach.bugsMobile {background-position: calc(-100% * 0) calc(-100% * 1);}
+#fly.bugsMobile {background-position: calc(-100% * 9) calc(-100% * 1);}
+#mosquito.bugsMobile {background-position: calc(-100% * 0) calc(-100% * 3);}
+#flea.bugsMobile {background-position: calc(-100% * 6) calc(-100% * 5);}
+#Snail.bugsMobile {background-position: calc(-100% * 6) calc(-100% * 3);}
+#pillBug.bugsMobile {background-position: calc(-100% * 9) calc(-100% * 0);}
+#centipede.bugsMobile {background-position: calc(-100% * 1) calc(-100% * 5);}
+#spider.bugsMobile {background-position: calc(-100% * 2) calc(-100% * 4);}
+#tarantula.bugsMobile {background-position: calc(-100% * 3) calc(-100% * 7);}
+#scorpion.bugsMobile {background-position: calc(-100% * 7) calc(-100% * 6);}

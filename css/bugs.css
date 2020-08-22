@@ -1,0 +1,87 @@
+.bugs {
+  width: 140px;
+  height: 140px;
+  background: url(../images/acInsects.png);
+  background-size: 1000%;
+}
+
+#commonButterfly.bugs {background-position: calc(-100% * 9) calc(-100% * 4);}
+#yellowButterfly.bugs {background-position: calc(-100% * 8) calc(-100% * 4);}
+#tigerButterfly.bugs {background-position: calc(-100% * 1) calc(-100% * 0);}
+#peacockButterfly.bugs {background-position: calc(-100% * 5) calc(-100% * 3);}
+#commonBluebottle.bugs {background-position: calc(-100% * 5) calc(-100% * 0);}
+#paperKiteButterfly.bugs {background-position: calc(-100% * 7) calc(-100% * 5);}
+#greatPurpleEmperor.bugs {background-position: calc(-100% * 0) calc(-100% * 6);}
+#monachButterfly.bugs {background-position: calc(-100% * 8) calc(-100% * 5);}
+#emperorButterfly.bugs {background-position: calc(-100% * 0) calc(-100% * 5);}
+#agriasButterfly.bugs {background-position: calc(-100% * 3) calc(-100% * 4);}
+#rajaBrookesBirdwing.bugs {background-position: calc(-100% * 2) calc(-100% * 0);}
+#queenAlexandrasBirdwing.bugs {background-position: calc(-100% * 6) calc(-100% * 0);}
+#moth.bugs {background-position: calc(-100% * 2) calc(-100% * 1);}
+#atlasMoth.bugs {background-position: calc(-100% * 8) calc(-100% * 7);}
+#madagascanSunsetMoth.bugs {background-position: calc(-100% * 4) calc(-100% * 5);}
+#longLocust.bugs {background-position: calc(-100% * 9) calc(-100% * 6);}
+#migratoryLocust.bugs {background-position: calc(-100% * 7) calc(-100% * 2);}
+#riceGrasshopper.bugs {background-position: calc(-100% * 5) calc(-100% * 7);}
+#grasshopper.bugs {background-position: calc(-100% * 7) calc(-100% * 3);}
+#cricket.bugs {background-position: calc(-100% * 9) calc(-100% * 3);}
+#bellCricket.bugs {background-position: calc(-100% * 0) calc(-100% * 7);}
+#mantis.bugs {background-position: calc(-100% * 2) calc(-100% * 3);}
+#orchidMantis.bugs {background-position: calc(-100% * 0) calc(-100% * 2);}
+#honeybee.bugs {background-position: calc(-100% * 6) calc(-100% * 4);}
+#wasp.bugs {background-position: calc(-100% * 8) calc(-100% * 1);}
+#brownCicada.bugs {background-position: calc(-100% * 0) calc(-100% * 0);}
+#robustCicada.bugs {background-position: calc(-100% * 4) calc(-100% * 4);}
+#giantCicada.bugs {background-position: calc(-100% * 1) calc(-100% * 4);}
+#walkerCicada.bugs {background-position: calc(-100% * 6) calc(-100% * 7);}
+#eveningCicada.bugs {background-position: calc(-100% * 3) calc(-100% * 2);}
+#cicadaShell.bugs {background-position: calc(-100% * 8) calc(-100% * 6);}
+#redDragonfly.bugs {background-position: calc(-100% * 3) calc(-100% * 0);}
+#darnerDragonfly.bugs {background-position: calc(-100% * 4) calc(-100% * 1);}
+#bandedDragonfly.bugs {background-position: calc(-100% * 3) calc(-100% * 6);}
+#damselfly.bugs {background-position: calc(-100% * 8) calc(-100% * 2);}
+#firefly.bugs {background-position: calc(-100% * 5) calc(-100% * 2);}
+#moleCricket.bugs {background-position: calc(-100% * 2) calc(-100% * 6);}
+#pondskater.bugs {background-position: calc(-100% * 4) calc(-100% * 0);}
+#divingBeetle.bugs {background-position: calc(-100% * 3) calc(-100% * 1);}
+#giantWaterBug.bugs {background-position: calc(-100% * 1) calc(-100% * 7);}
+#stinkbug.bugs {background-position: calc(-100% * 3) calc(-100% * 3);}
+#man-facedStinkBug.bugs {background-position: calc(-100% * 9) calc(-100% * 2);}
+#ladybug.bugs {background-position: calc(-100% * 4) calc(-100% * 7);}
+#tigerBeetle.bugs {background-position: calc(-100% * 1) calc(-100% * 2);}
+#jewelBeetle.bugs {background-position: calc(-100% * 2) calc(-100% * 7);}
+#violinBeetle.bugs {background-position: calc(-100% * 8) calc(-100% * 0);}
+#citrusLong-hornedBeetle.bugs {background-position: calc(-100% * 6) calc(-100% * 1);}
+#rosaliaBatesiBeetle.bugs {background-position: calc(-100% * 6) calc(-100% * 6);}
+#blueWeevilBeetle.bugs {background-position: calc(-100% * 6) calc(-100% * 2);}
+#dungBeetle.bugs {background-position: calc(-100% * 1) calc(-100% * 1);}
+#earth-boringDungBeetle.bugs {background-position: calc(-100% * 1) calc(-100% * 6);}
+#scarabBeetle.bugs {background-position: calc(-100% * 5) calc(-100% * 6);}
+#droneBeetle.bugs {background-position: calc(-100% * 4) calc(-100% * 3);}
+#goliathBeetle.bugs {background-position: calc(-100% * 7) calc(-100% * 1);}
+#sawStag.bugs {background-position: calc(-100% * 5) calc(-100% * 5);}
+#miyamaStag.bugs {background-position: calc(-100% * 7) calc(-100% * 4);}
+#giantStag.bugs {background-position: calc(-100% * 9) calc(-100% * 5);}
+#rainbowStag.bugs {background-position: calc(-100% * 3) calc(-100% * 5);}
+#cyclommatusStag.bugs {background-position: calc(-100% * 4) calc(-100% * 2);}
+#goldenStag.bugs {background-position: calc(-100% * 4) calc(-100% * 6);}
+#giraffeStag.bugs {background-position: calc(-100% * 5) calc(-100% * 1);}
+#hornedDynastid.bugs {background-position: calc(-100% * 1) calc(-100% * 3);}
+#hornedAtlas.bugs {background-position: calc(-100% * 8) calc(-100% * 3);}
+#hornedElephant.bugs {background-position: calc(-100% * 9) calc(-100% * 7);}
+#hornedHerucles.bugs {background-position: calc(-100% * 2) calc(-100% * 2);}
+#walkingStick.bugs {background-position: calc(-100% * 2) calc(-100% * 5);}
+#walkingLeaf.bugs {background-position: calc(-100% * 0) calc(-100% * 4);}
+#bagworm.bugs {background-position: calc(-100% * 5) calc(-100% * 4);}
+#ant.bugs {background-position: calc(-100% * 7) calc(-100% * 0);}
+#hermitCrab.bugs {background-position: calc(-100% * 7) calc(-100% * 7);}
+#wharfRoach.bugs {background-position: calc(-100% * 0) calc(-100% * 1);}
+#fly.bugs {background-position: calc(-100% * 9) calc(-100% * 1);}
+#mosquito.bugs {background-position: calc(-100% * 0) calc(-100% * 3);}
+#flea.bugs {background-position: calc(-100% * 6) calc(-100% * 5);}
+#Snail.bugs {background-position: calc(-100% * 6) calc(-100% * 3);}
+#pillBug.bugs {background-position: calc(-100% * 9) calc(-100% * 0);}
+#centipede.bugs {background-position: calc(-100% * 1) calc(-100% * 5);}
+#spider.bugs {background-position: calc(-100% * 2) calc(-100% * 4);}
+#tarantula.bugs {background-position: calc(-100% * 3) calc(-100% * 7);}
+#scorpion.bugs {background-position: calc(-100% * 7) calc(-100% * 6);}

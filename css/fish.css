@@ -1,0 +1,87 @@
+.fish {
+  width: 1024px;
+  height: 512px;
+  background: url(../images/acFish.png);
+  background-size: 800%;
+}
+
+#bitterling.fish {background-position: 85.7142857142% 88.8%;}
+#pale-chub.fish {background-position: 28.5714285714% 66.6%;}
+#crucian-carp.fish {background-position: 42.8571428571% 22.2%;}
+#dace.fish {background-position: 28.5714285714% 100%;}
+#carp.fish {background-position: 71.4285714285% 44.4%;}
+#koi.fish {background-position: 0% 66.6%;}
+#goldfish.fish {background-position: 42.8571428571% 44.4%;}
+#pop-eyed-goldfish.fish {background-position: 28.5714285714% 11.1%;}
+#ranchu-goldfish.fish {background-position: 28.5714285714% 77.7%;}
+#killifish.fish {background-position: 28.5714285714% 55.5%;}
+#crawfish.fish {background-position: 99.9999999999% 100%;}
+#soft-shelled-turtle.fish {background-position: 28.5714285714% 88.8%;}
+#snapping-turtle.fish {background-position: 0% 44.4%;}
+#tadpole.fish {background-position: 57.1428571428% 66.6%;}
+#frog.fish {background-position: 85.7142857142% 33.3%;}
+#freshwater-goby.fish {background-position: 99.9999999999% 11.1%;}
+#loach.fish {background-position: 57.1428571428% 11.1%;}
+#catfish.fish {background-position: 57.1428571428% 55.5%;}
+#giant-snakehead.fish {background-position: 0% 77.7%;}
+#bluegill.fish {background-position: 99.9999999999% 0%;}
+#yellow-perch.fish {background-position: 85.7142857142% 100%;}
+#black-bass.fish {background-position: 85.7142857142% 0%;}
+#tilapia.fish {background-position: 0% 100%;}
+#pike.fish {background-position: 71.4285714285% 66.6%;}
+#pond-smelt.fish {background-position: 57.1428571428% 100%;}
+#sweetfish.fish {background-position: 57.1428571428% 0%;}
+#cherry-salmon.fish {background-position: 71.4285714285% 100%;}
+#char.fish {background-position: 42.8571428571% 66.6%;}
+#golden-trout.fish {background-position: 71.4285714285% 22.2%;}
+#stringfish.fish{background-position: 57.1428571428% 33.3%}
+#salmon.fish {background-position: 71.4285714285% 77.7%;}
+#king-salmon.fish {background-position: 28.5714285714% 44.4%;}
+#mitten-crab.fish {background-position: 57.1428571428% 88.8%;}
+#guppy.fish {background-position: 85.7142857142% 22.2%;}
+#nibble-fish.fish {background-position: 71.4285714285% 11.1%;}
+#angelfish.fish {background-position: 14.2857142857% 0%;}
+#betta.fish {background-position: 71.4285714285% 0%;}
+#neon-tetra.fish {background-position: 99.9999999999% 55.5%;}
+#rainbowfish.fish {background-position: 14.2857142857% 77.7%;}
+#piranha.fish {background-position: 85.7142857142% 66.6%;}
+#arowana.fish {background-position: 42.8571428571% 0%;}
+#dorado.fish {background-position: 85.7142857142% 11.1%;}
+#gar.fish {background-position: 57.1428571428% 22.2%;}
+#arapaima.fish {background-position: 99.9999999999% 66.6%;}
+#saddled-bichir.fish {background-position: 14.2857142857% 22.2%;}
+#sturgeon.fish {background-position: 14.2857142857% 100%;}
+#sea-butterfly.fish {background-position: 99.9999999999% 44.4%;}
+#sea-horse.fish {background-position: 99.9999999999% 88.8%;}
+#clown-fish.fish {background-position: 85.7142857142% 44.4%;}
+#surgeonfish.fish {background-position: 71.4285714285% 55.5%;}
+#butterfly-fish.fish {background-position: 14.2857142857% 11.1%;}
+#napoleonfish.fish {background-position: 85.7142857142% 55.5%;}
+#zebra-turkeyfish.fish {background-position: 42.8571428571% 55.5%;}
+#blowfish.fish {background-position: 28.5714285714% 22.2%;}
+#puffer-fish.fish {background-position: 0% 33.3%;}
+#anchovy.fish {background-position: 28.5714285714% 0%;}
+#horse-mackerel.fish {background-position: 0% 0%;}
+#barred-knifejaw.fish {background-position: 42.8571428571% 33.3%;}
+#sea-bass.fish {background-position: 42.8571428571% 88.8%;}
+#red-snapper.fish {background-position: 71.4285714285% 88.8%;}
+#dab.fish {background-position: 14.2857142857% 44.4%;}
+#olive-flounder.fish {background-position: 14.2857142857% 33.3%;}
+#squid.fish {background-position: 28.5714285714% 33.3%;}
+#moray-eel.fish {background-position: 42.8571428571% 100%;}
+#ribbon-eel.fish {background-position: 99.9999999999% 22.2%;}
+#tuna.fish {background-position: 0% 55.5%;}
+#blue-marlin.fish {background-position: 99.9999999999% 33.3%;}
+#giant-trevally.fish {background-position: 42.8571428571% 77.7%;}
+#mahi-mahi.fish {background-position: 99.9999999999% 77.7%;}
+#ocean-sunfish.fish {background-position: 14.2857142857% 55.5%;}
+#ray.fish {background-position: 0% 22.2%;}
+#saw-shark.fish {background-position: 14.2857142857% 66.6%;}
+#hammerhead-shark.fish {background-position: 0% 88.8%;}
+#great-white-shark.fish {background-position: 85.7142857142% 77.7%;}
+#whale-shark.fish {background-position: 71.4285714285% 33.3%;}
+#suckerfish.fish {background-position: 57.1428571428% 44.4%;}
+#football-fish.fish {background-position: 0% 11.1%;}
+#oarfish.fish {background-position: 57.1428571428% 77.7%;}
+#barreleye.fish {background-position: 42.8571428571% 11.1%;}
+#coelacanth.fish {background-position: 14.2857142857% 88.8%;}
