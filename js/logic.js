@@ -73,6 +73,8 @@ function show () {
 
 function renderBugs() {
   document.getElementById("menuH1").innerHTML = 'Insects';
+  document.getElementById("menuHead").style.float = null;
+  document.getElementById("menuHead").style.marginRight = null;
   document.getElementById("menuHead").style.marginLeft = null;
 
   var formatStr = ``,
@@ -186,7 +188,6 @@ function renderBugs() {
 
 function renderFish() {
   document.getElementById("menuH1").innerHTML = 'Fish';
-  document.getElementById("menuHead").style.marginLeft = '98px'
 
   var formatStr = ``,
       table = document.getElementById("table"),
@@ -196,6 +197,8 @@ function renderFish() {
   let mql = window.matchMedia('(max-width: 800px)');
 
   if (mql.matches) {
+    document.getElementById("menuHead").style.float = 'right'
+    document.getElementById("menuHead").style.marginRight = '-4px'
     formatStr += `
     <tr>
       <td colspan="18">
@@ -209,6 +212,7 @@ function renderFish() {
     <td><div id="tdSpace"></div></td>`;
   }
   else {
+    document.getElementById("menuHead").style.marginLeft = '98px'
     formatStr += `
     <tr>
       <td colspan="18">

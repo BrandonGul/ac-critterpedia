@@ -67,21 +67,22 @@ body {
 }
 
 #menuInsect {
-  background: url(../images/acInsects.png) calc(-100% * 6) 0;
-  background-size: 1000%;
-  width: 25px;
-  height: 25px;
+  background-position: 5% 62.5%;
+  width: 30px;
+  height: 30px;
   background-color: white;
   margin: auto;
-  margin-top: 15px;
+  margin-top: 9px;
 }
 
 #menuFish {
-  width: 25px;
-  height: 25px;
+  background-position: 30% 37.5%;
+  width: 30px;
+  height: 30px;
   background-color: white;
   margin: auto;
-  margin-top: 15px;
+  margin-top: 10px;
+  margin-left: 11px;
   text-align: center
 }
 
