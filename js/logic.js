@@ -17,19 +17,19 @@ function show () {
       info = document.getElementById("info"),
       menu = document.getElementById("menu");
 
-  if (table.style.display == "block") {
+  if (info.style.display == "block") {
+    menu.style.display = "block",
+    table.style.display = "block",
+    info.style.display = "none",
+    window.scrollTo(winX, 0);
+  }
+  else {
     winX = window.scrollX,
     menu.style.display = "none",
     table.style.display = "none",
     info.style.display = "block";
 
     gen();
-  }
-  else {
-    menu.style.display = "block",
-    table.style.display = "block",
-    info.style.display = "none",
-    window.scrollTo(winX, 0);
   }
 
   function gen () {
