@@ -72,6 +72,7 @@ function show () {
 }
 
 function renderBugs() {
+  window.scrollTo(0, 0);
   document.getElementById("menuH1").innerHTML = 'Insects';
   document.getElementById("menuHead").style.float = null;
   document.getElementById("menuHead").style.marginRight = null;
@@ -187,6 +188,7 @@ function renderBugs() {
 }
 
 function renderFish() {
+  window.scrollTo(0, 0);
   document.getElementById("menuH1").innerHTML = 'Fish';
 
   var formatStr = ``,
