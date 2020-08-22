@@ -490,475 +490,475 @@ let fish = {
   },
   'pale-chub': {
     'id': 'pale-chub',
-    'name': 'NAME',
+    'name': 'Pale Chub',
     'calOn': [],
     'times': [1]
   },
   'crucian-carp': {
     'id': 'crucian-carp',
-    'name': 'NAME',
+    'name': 'Crucian Carp',
     'calOn': [],
     'times': [1]
   },
   'dace': {
     'id': 'dace',
-    'name': 'NAME',
+    'name': 'Dace',
     'calOn': [],
     'times': [1]
   },
   'carp': {
     'id': 'carp',
-    'name': 'NAME',
+    'name': 'Carp',
     'calOn': [],
     'times': [1]
   },
   'koi': {
     'id': 'koi',
-    'name': 'NAME',
+    'name': 'Koi',
     'calOn': [],
     'times': [1]
   },
   'goldfish': {
     'id': 'goldfish',
-    'name': 'NAME',
+    'name': 'Goldfish',
     'calOn': [],
     'times': [1]
   },
   'pop-eyed-goldfish': {
     'id': 'pop-eyed-goldfish',
-    'name': 'NAME',
+    'name': 'Pop Eyed Goldfish',
     'calOn': [],
     'times': [1]
   },
   'ranchu-goldfish': {
     'id': 'ranchu-goldfish',
-    'name': 'NAME',
+    'name': 'Ranchu Goldfish',
     'calOn': [],
     'times': [1]
   },
   'killifish': {
-    'id': 'killifish',
+    'id': 'Killifish',
     'name': 'NAME',
     'calOn': [],
     'times': [1]
   },
   'crawfish': {
     'id': 'crawfish',
-    'name': 'NAME',
+    'name': 'Crawfish',
     'calOn': [],
     'times': [1]
   },
   'soft-shelled-turtle': {
     'id': 'soft-shelled-turtle',
-    'name': 'NAME',
+    'name': 'Soft Shelled Turtle',
     'calOn': [],
     'times': [1]
   },
   'snapping-turtle': {
     'id': 'snapping-turtle',
-    'name': 'NAME',
+    'name': 'Snapping Turtle',
     'calOn': [],
     'times': [1]
   },
   'tadpole': {
     'id': 'tadpole',
-    'name': 'NAME',
+    'name': 'Tadpole',
     'calOn': [],
     'times': [1]
   },
   'frog': {
     'id': 'frog',
-    'name': 'NAME',
+    'name': 'Frog',
     'calOn': [],
     'times': [1]
   },
   'freshwater-goby': {
     'id': 'freshwater-goby',
-    'name': 'NAME',
+    'name': 'Freshwater Goby',
     'calOn': [],
     'times': [1]
   },
   'loach': {
     'id': 'loach',
-    'name': 'NAME',
+    'name': 'Loach',
     'calOn': [],
     'times': [1]
   },
   'catfish': {
     'id': 'catfish',
-    'name': 'NAME',
+    'name': 'Catfish',
     'calOn': [],
     'times': [1]
   },
   'giant-snakehead': {
     'id': 'giant-snakehead',
-    'name': 'NAME',
+    'name': 'Giant Snakehead',
     'calOn': [],
     'times': [1]
   },
   'bluegill': {
     'id': 'bluegill',
-    'name': 'NAME',
+    'name': 'Bluegill',
     'calOn': [],
     'times': [1]
   },
   'yellow-perch': {
     'id': 'yellow-perch',
-    'name': 'NAME',
+    'name': 'Yellow Perch',
     'calOn': [],
     'times': [1]
   },
   'black-bass': {
     'id': 'black-bass',
-    'name': 'NAME',
+    'name': 'Black Bass',
     'calOn': [],
     'times': [1]
   },
   'tilapia': {
     'id': 'tilapia',
-    'name': 'NAME',
+    'name': 'Tilapia',
     'calOn': [],
     'times': [1]
   },
   'pike': {
     'id': 'pike',
-    'name': 'NAME',
+    'name': 'Pike',
     'calOn': [],
     'times': [1]
   },
   'pond-smelt': {
     'id': 'pond-smelt',
-    'name': 'NAME',
+    'name': 'Pond Smelt',
     'calOn': [],
     'times': [1]
   },
   'sweetfish': {
     'id': 'sweetfish',
-    'name': 'NAME',
+    'name': 'Sweetfish',
     'calOn': [],
     'times': [1]
   },
   'cherry-salmon': {
     'id': 'cherry-salmon',
-    'name': 'NAME',
+    'name': 'Cherry Salmon',
     'calOn': [],
     'times': [1]
   },
   'char': {
     'id': 'char',
-    'name': 'NAME',
+    'name': 'Char',
     'calOn': [],
     'times': [1]
   },
   'golden-trout': {
     'id': 'golden-trout',
-    'name': 'NAME',
+    'name': 'Golden Trout',
     'calOn': [],
     'times': [1]
   },
   'stringfish': {
     'id': 'stringfish',
-    'name': 'NAME',
+    'name': 'Stringfish',
     'calOn': [],
     'times': [1]
   },
   'salmon': {
     'id': 'salmon',
-    'name': 'NAME',
+    'name': 'Salmon',
     'calOn': [],
     'times': [1]
   },
   'king-salmon': {
     'id': 'king-salmon',
-    'name': 'NAME',
+    'name': 'King Salmon',
     'calOn': [],
     'times': [1]
   },
   'mitten-crab': {
     'id': 'mitten-crab',
-    'name': 'NAME',
+    'name': 'Mitten crab',
     'calOn': [],
     'times': [1]
   },
   'guppy': {
     'id': 'guppy',
-    'name': 'NAME',
+    'name': 'Guppy',
     'calOn': [],
     'times': [1]
   },
   'nibble-fish': {
     'id': 'nibble-fish',
-    'name': 'NAME',
+    'name': 'Nibble Fish',
     'calOn': [],
     'times': [1]
   },
   'angelfish': {
     'id': 'angelfish',
-    'name': 'NAME',
+    'name': 'Angelfish',
     'calOn': [],
     'times': [1]
   },
   'betta': {
     'id': 'betta',
-    'name': 'NAME',
+    'name': 'Betta',
     'calOn': [],
     'times': [1]
   },
   'neon-tetra': {
     'id': 'neon-tetra',
-    'name': 'NAME',
+    'name': 'Neon Tetra',
     'calOn': [],
     'times': [1]
   },
   'rainbowfish': {
     'id': 'rainbowfish',
-    'name': 'NAME',
+    'name': 'Rainbowfish',
     'calOn': [],
     'times': [1]
   },
   'piranha': {
     'id': 'piranha',
-    'name': 'NAME',
+    'name': 'Piranha',
     'calOn': [],
     'times': [1]
   },
   'arowana': {
     'id': 'arowana',
-    'name': 'NAME',
+    'name': 'Arowana',
     'calOn': [],
     'times': [1]
   },
   'dorado': {
     'id': 'dorado',
-    'name': 'NAME',
+    'name': 'Dorado',
     'calOn': [],
     'times': [1]
   },
   'gar': {
     'id': 'gar',
-    'name': 'NAME',
+    'name': 'Gar',
     'calOn': [],
     'times': [1]
   },
   'arapaima': {
     'id': 'arapaima',
-    'name': 'NAME',
+    'name': 'Arapaima',
     'calOn': [],
     'times': [1]
   },
   'saddled-bichir': {
     'id': 'saddled-bichir',
-    'name': 'NAME',
+    'name': 'Saddled Bichir',
     'calOn': [],
     'times': [1]
   },
   'sturgeon': {
     'id': 'sturgeon',
-    'name': 'NAME',
+    'name': 'Sturgeon',
     'calOn': [],
     'times': [1]
   },
   'sea-butterfly': {
     'id': 'sea-butterfly',
-    'name': 'NAME',
+    'name': 'Sea Butterfly',
     'calOn': [],
     'times': [1]
   },
   'sea-horse': {
     'id': 'sea-horse',
-    'name': 'NAME',
+    'name': 'Sea Horse',
     'calOn': [],
     'times': [1]
   },
   'clown-fish': {
     'id': 'clown-fish',
-    'name': 'NAME',
+    'name': 'Clown Fish',
     'calOn': [],
     'times': [1]
   },
   'surgeonfish': {
     'id': 'surgeonfish',
-    'name': 'NAME',
+    'name': 'Surgeonfish',
     'calOn': [],
     'times': [1]
   },
   'butterfly-fish': {
     'id': 'butterfly-fish',
-    'name': 'NAME',
+    'name': 'Butterfly Fish',
     'calOn': [],
     'times': [1]
   },
   'napoleonfish': {
     'id': 'napoleonfish',
-    'name': 'NAME',
+    'name': 'Napoleonfish',
     'calOn': [],
     'times': [1]
   },
   'zebra-turkeyfish': {
     'id': 'zebra-turkeyfish',
-    'name': 'NAME',
+    'name': 'Zebra Turkeyfish',
     'calOn': [],
     'times': [1]
   },
   'blowfish': {
     'id': 'blowfish',
-    'name': 'NAME',
+    'name': 'Blowfish',
     'calOn': [],
     'times': [1]
   },
   'puffer-fish': {
     'id': 'puffer-fish',
-    'name': 'NAME',
+    'name': 'Puffer Fish',
     'calOn': [],
     'times': [1]
   },
   'anchovy': {
     'id': 'anchovy',
-    'name': 'NAME',
+    'name': 'Anchovy',
     'calOn': [],
     'times': [1]
   },
   'horse-mackerel': {
     'id': 'horse-mackerel',
-    'name': 'NAME',
+    'name': 'Horse Mackerel',
     'calOn': [],
     'times': [1]
   },
   'barred-knifejaw': {
     'id': 'barred-knifejaw',
-    'name': 'NAME',
+    'name': 'Barred Knifejaw',
     'calOn': [],
     'times': [1]
   },
   'sea-bass': {
     'id': 'sea-bass',
-    'name': 'NAME',
+    'name': 'Sea Bass',
     'calOn': [],
     'times': [1]
   },
   'red-snapper': {
     'id': 'red-snapper',
-    'name': 'NAME',
+    'name': 'Red Snapper',
     'calOn': [],
     'times': [1]
   },
   'dab': {
     'id': 'dab',
-    'name': 'NAME',
+    'name': 'Dab',
     'calOn': [],
     'times': [1]
   },
   'olive-flounder': {
     'id': 'olive-flounder',
-    'name': 'NAME',
+    'name': 'Olive Flounder',
     'calOn': [],
     'times': [1]
   },
   'squid': {
     'id': 'squid',
-    'name': 'NAME',
+    'name': 'Squid',
     'calOn': [],
     'times': [1]
   },
   'moray-eel': {
     'id': 'moray-eel',
-    'name': 'NAME',
+    'name': 'Moray Eel',
     'calOn': [],
     'times': [1]
   },
   'ribbon-eel': {
     'id': 'ribbon-eel',
-    'name': 'NAME',
+    'name': 'Ribbon Eel',
     'calOn': [],
     'times': [1]
   },
   'tuna': {
     'id': 'tuna',
-    'name': 'NAME',
+    'name': 'Tuna',
     'calOn': [],
     'times': [1]
   },
   'blue-marlin': {
     'id': 'blue-marlin',
-    'name': 'NAME',
+    'name': 'Blue Marlin',
     'calOn': [],
     'times': [1]
   },
   'giant-trevally': {
     'id': 'giant-trevally',
-    'name': 'NAME',
+    'name': 'Giant Trevally',
     'calOn': [],
     'times': [1]
   },
   'mahi-mahi': {
     'id': 'mahi-mahi',
-    'name': 'NAME',
+    'name': 'Mahi Mahi',
     'calOn': [],
     'times': [1]
   },
   'ocean-sunfish': {
     'id': 'ocean-sunfish',
-    'name': 'NAME',
+    'name': 'Ocean Sunfish',
     'calOn': [],
     'times': [1]
   },
   'ray': {
     'id': 'ray',
-    'name': 'NAME',
+    'name': 'Ray',
     'calOn': [],
     'times': [1]
   },
   'saw-shark': {
     'id': 'saw-shark',
-    'name': 'NAME',
+    'name': 'Saw Shark',
     'calOn': [],
     'times': [1]
   },
   'hammerhead-shark': {
     'id': 'hammerhead-shark',
-    'name': 'NAME',
+    'name': 'Hammerhead Shark',
     'calOn': [],
     'times': [1]
   },
   'great-white-shark': {
     'id': 'great-white-shark',
-    'name': 'NAME',
+    'name': 'Great White Shark',
     'calOn': [],
     'times': [1]
   },
   'whale-shark': {
     'id': 'whale-shark',
-    'name': 'NAME',
+    'name': 'Whale Shark',
     'calOn': [],
     'times': [1]
   },
   'suckerfish': {
     'id': 'suckerfish',
-    'name': 'NAME',
+    'name': 'Suckerfish',
     'calOn': [],
     'times': [1]
   },
   'football-fish': {
     'id': 'football-fish',
-    'name': 'NAME',
+    'name': 'Football Fish',
     'calOn': [],
     'times': [1]
   },
   'oarfish': {
     'id': 'oarfish',
-    'name': 'NAME',
+    'name': 'Oarfish',
     'calOn': [],
     'times': [1]
   },
   'barreleye': {
     'id': 'barreleye',
-    'name': 'NAME',
+    'name': 'Barreleye',
     'calOn': [],
     'times': [1]
   },
   'coelacanth': {
     'id': 'coelacanth',
-    'name': 'NAME',
+    'name': 'Coelacanth',
     'calOn': [],
     'times': [1]
   }
