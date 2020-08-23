@@ -485,7 +485,7 @@ let fish = {
   'bitterling': {
     'id': 'bitterling',
     'name': 'Bitterling',
-    'calOn': [6, 7],
+    'calOn': [3,4,5,6,7,8,9],
     'times': [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
   },
   'pale-chub': {
@@ -537,39 +537,39 @@ let fish = {
     'times': [1]
   },
   'killifish': {
-    'id': 'Killifish',
-    'name': 'NAME',
-    'calOn': [],
+    'id': 'killifish',
+    'name': 'Killifish',
+    'calOn': [0,1,2,8,9,10,11],
     'times': [1]
   },
   'crawfish': {
     'id': 'crawfish',
     'name': 'Crawfish',
-    'calOn': [],
+    'calOn': [0,1,2,9,10,11],
     'times': [1]
   },
   'soft-shelled-turtle': {
     'id': 'soft-shelled-turtle',
     'name': 'Soft Shelled Turtle',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,6,9,10,11],
     'times': [1]
   },
   'snapping-turtle': {
     'id': 'snapping-turtle',
     'name': 'Snapping Turtle',
-    'calOn': [],
+    'calOn': [0,1,2,10,11],
     'times': [1]
   },
   'tadpole': {
     'id': 'tadpole',
     'name': 'Tadpole',
-    'calOn': [],
+    'calOn': [0,1,7,8,9,10,11],
     'times': [1]
   },
   'frog': {
     'id': 'frog',
     'name': 'Frog',
-    'calOn': [],
+    'calOn': [0,1,2,3,8,9,10,11],
     'times': [1]
   },
   'freshwater-goby': {
@@ -581,19 +581,19 @@ let fish = {
   'loach': {
     'id': 'loach',
     'name': 'Loach',
-    'calOn': [],
+    'calOn': [0,1,5,6,7,8,9,10,11],
     'times': [1]
   },
   'catfish': {
     'id': 'catfish',
     'name': 'Catfish',
-    'calOn': [],
+    'calOn': [0,1,2,3,10,11],
     'times': [1]
   },
   'giant-snakehead': {
     'id': 'giant-snakehead',
     'name': 'Giant Snakehead',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,8,9,10,11],
     'times': [1]
   },
   'bluegill': {
@@ -605,7 +605,7 @@ let fish = {
   'yellow-perch': {
     'id': 'yellow-perch',
     'name': 'Yellow Perch',
-    'calOn': [],
+    'calOn': [3,4,5,6,7,8],
     'times': [1]
   },
   'black-bass': {
@@ -617,199 +617,199 @@ let fish = {
   'tilapia': {
     'id': 'tilapia',
     'name': 'Tilapia',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,10,11],
     'times': [1]
   },
   'pike': {
     'id': 'pike',
     'name': 'Pike',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,6,7],
     'times': [1]
   },
   'pond-smelt': {
     'id': 'pond-smelt',
     'name': 'Pond Smelt',
-    'calOn': [],
+    'calOn': [2,3,4,5,6,7,8,9,10],
     'times': [1]
   },
   'sweetfish': {
     'id': 'sweetfish',
     'name': 'Sweetfish',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,9,10,11],
     'times': [1]
   },
   'cherry-salmon': {
     'id': 'cherry-salmon',
     'name': 'Cherry Salmon',
-    'calOn': [],
+    'calOn': [0,1,6,7,11],
     'times': [1]
   },
   'char': {
     'id': 'char',
     'name': 'Char',
-    'calOn': [],
+    'calOn': [0,1,6,7,11],
     'times': [1]
   },
   'golden-trout': {
     'id': 'golden-trout',
     'name': 'Golden Trout',
-    'calOn': [],
+    'calOn': [0,1,5,6,7,11],
     'times': [1]
   },
   'stringfish': {
     'id': 'stringfish',
     'name': 'Stringfish',
-    'calOn': [],
+    'calOn': [3,4,5,6,7,8,9,10],
     'times': [1]
   },
   'salmon': {
     'id': 'salmon',
     'name': 'Salmon',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,6,7,9,10,11],
     'times': [1]
   },
   'king-salmon': {
     'id': 'king-salmon',
     'name': 'King Salmon',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,6,7,9,10,11],
     'times': [1]
   },
   'mitten-crab': {
     'id': 'mitten-crab',
     'name': 'Mitten crab',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,6,7,11],
     'times': [1]
   },
   'guppy': {
     'id': 'guppy',
     'name': 'Guppy',
-    'calOn': [],
+    'calOn': [0,1,2,11],
     'times': [1]
   },
   'nibble-fish': {
     'id': 'nibble-fish',
     'name': 'Nibble Fish',
-    'calOn': [],
+    'calOn': [0,1,2,3,9,10,11],
     'times': [1]
   },
   'angelfish': {
     'id': 'angelfish',
     'name': 'Angelfish',
-    'calOn': [],
+    'calOn': [0,1,2,3,10,11],
     'times': [1]
   },
   'betta': {
     'id': 'betta',
     'name': 'Betta',
-    'calOn': [],
+    'calOn': [0,1,2,3,10,11],
     'times': [1]
   },
   'neon-tetra': {
     'id': 'neon-tetra',
     'name': 'Neon Tetra',
-    'calOn': [],
+    'calOn': [0,1,2,11],
     'times': [1]
   },
   'rainbowfish': {
     'id': 'rainbowfish',
     'name': 'Rainbowfish',
-    'calOn': [],
+    'calOn': [0,1,2,3,10,11],
     'times': [1]
   },
   'piranha': {
     'id': 'piranha',
     'name': 'Piranha',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'arowana': {
     'id': 'arowana',
     'name': 'Arowana',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'dorado': {
     'id': 'dorado',
     'name': 'Dorado',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'gar': {
     'id': 'gar',
     'name': 'Gar',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'arapaima': {
     'id': 'arapaima',
     'name': 'Arapaima',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'saddled-bichir': {
     'id': 'saddled-bichir',
     'name': 'Saddled Bichir',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'sturgeon': {
     'id': 'sturgeon',
     'name': 'Sturgeon',
-    'calOn': [],
+    'calOn': [3,4,5,6,7],
     'times': [1]
   },
   'sea-butterfly': {
     'id': 'sea-butterfly',
     'name': 'Sea Butterfly',
-    'calOn': [],
+    'calOn': [3,4,5,6,7,8,9,10],
     'times': [1]
   },
   'sea-horse': {
     'id': 'sea-horse',
     'name': 'Sea Horse',
-    'calOn': [],
+    'calOn': [0,1,2,11],
     'times': [1]
   },
   'clown-fish': {
     'id': 'clown-fish',
     'name': 'Clown Fish',
-    'calOn': [],
+    'calOn': [0,1,2,9,10,11],
     'times': [1]
   },
   'surgeonfish': {
     'id': 'surgeonfish',
     'name': 'Surgeonfish',
-    'calOn': [],
+    'calOn': [0,1,2,9,10,11],
     'times': [1]
   },
   'butterfly-fish': {
     'id': 'butterfly-fish',
     'name': 'Butterfly Fish',
-    'calOn': [],
+    'calOn': [0,1,2,9,10,11],
     'times': [1]
   },
   'napoleonfish': {
     'id': 'napoleonfish',
     'name': 'Napoleonfish',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,8,9,10,11],
     'times': [1]
   },
   'zebra-turkeyfish': {
     'id': 'zebra-turkeyfish',
     'name': 'Zebra Turkeyfish',
-    'calOn': [],
+    'calOn': [0,1,2,11],
     'times': [1]
   },
   'blowfish': {
     'id': 'blowfish',
     'name': 'Blowfish',
-    'calOn': [],
+    'calOn': [2,3,4,5,6,7,8,9],
     'times': [1]
   },
   'puffer-fish': {
     'id': 'puffer-fish',
     'name': 'Puffer Fish',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,9,10,11],
     'times': [1]
   },
   'anchovy': {
@@ -827,7 +827,7 @@ let fish = {
   'barred-knifejaw': {
     'id': 'barred-knifejaw',
     'name': 'Barred Knifejaw',
-    'calOn': [],
+    'calOn': [0,1,11],
     'times': [1]
   },
   'sea-bass': {
@@ -845,7 +845,7 @@ let fish = {
   'dab': {
     'id': 'dab',
     'name': 'Dab',
-    'calOn': [],
+    'calOn': [4,5,6,7,8],
     'times': [1]
   },
   'olive-flounder': {
@@ -857,97 +857,97 @@ let fish = {
   'squid': {
     'id': 'squid',
     'name': 'Squid',
-    'calOn': [],
+    'calOn': [8,9,10],
     'times': [1]
   },
   'moray-eel': {
     'id': 'moray-eel',
     'name': 'Moray Eel',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,6,10,11],
     'times': [1]
   },
   'ribbon-eel': {
     'id': 'ribbon-eel',
     'name': 'Ribbon Eel',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,10,11],
     'times': [1]
   },
   'tuna': {
     'id': 'tuna',
     'name': 'Tuna',
-    'calOn': [],
+    'calOn': [4,5,6,7,8,9],
     'times': [1]
   },
   'blue-marlin': {
     'id': 'blue-marlin',
     'name': 'Blue Marlin',
-    'calOn': [],
+    'calOn': [4,5,9],
     'times': [1]
   },
   'giant-trevally': {
     'id': 'giant-trevally',
     'name': 'Giant Trevally',
-    'calOn': [],
+    'calOn': [0,1,2,3,10,11],
     'times': [1]
   },
   'mahi-mahi': {
     'id': 'mahi-mahi',
     'name': 'Mahi Mahi',
-    'calOn': [],
+    'calOn': [0,1,2,3,10,11],
     'times': [1]
   },
   'ocean-sunfish': {
     'id': 'ocean-sunfish',
     'name': 'Ocean Sunfish',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,9,10,11],
     'times': [1]
   },
   'ray': {
     'id': 'ray',
     'name': 'Ray',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,5,6,11],
     'times': [1]
   },
   'saw-shark': {
     'id': 'saw-shark',
     'name': 'Saw Shark',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'hammerhead-shark': {
     'id': 'hammerhead-shark',
     'name': 'Hammerhead Shark',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'great-white-shark': {
     'id': 'great-white-shark',
     'name': 'Great White Shark',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'whale-shark': {
     'id': 'whale-shark',
     'name': 'Whale Shark',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'suckerfish': {
     'id': 'suckerfish',
     'name': 'Suckerfish',
-    'calOn': [],
+    'calOn': [0,1,2,3,4,9,10,11],
     'times': [1]
   },
   'football-fish': {
     'id': 'football-fish',
     'name': 'Football Fish',
-    'calOn': [],
+    'calOn': [3,4,5,6,7,8,9],
     'times': [1]
   },
   'oarfish': {
     'id': 'oarfish',
     'name': 'Oarfish',
-    'calOn': [],
+    'calOn': [5,6,7,8,9,10],
     'times': [1]
   },
   'barreleye': {
