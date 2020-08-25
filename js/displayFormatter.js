@@ -617,7 +617,7 @@ function fishMobile (data) {
 
   var str = `
     <td style="border: 2px solid; border-color: #bfbaa3;">
-      <div id="${data['id']}" class="fishMobile" style="margin: 0 auto;table-layout: fixed; width: 300px; padding-bottom: 60px;"></div>
+      <div id="${data['id']}" class="fishMobile" style="margin: 0 auto;table-layout: fixed; width: 300px; margin-bottom: 20px;"></div>
       <div style="background-color: clear; margin: 0 auto; display: table">
         <div style="background-color: white; display: inline-block; transform: rotate(-2deg); padding-left: 30px; padding-right: 30px; margin-top: -6px; margin-left: -3px;">
           <h3 style="background-color: white; margin-block-end: 10px; margin-block-start: 10px; color: #584f4f; margin-bottom: 10px">${data['name']}</h3>
