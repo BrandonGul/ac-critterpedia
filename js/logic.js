@@ -34,38 +34,21 @@ function show () {
 
   function gen () {
     var leftTable = document.getElementById("left");
-    let id = event.target.id;
+    let id = event.target.id,
+        mql = window.matchMedia('(max-width: 800px)');
 
-    if (id in bugs) {
-      leftTable.innerHTML = bugFormat(bugs[id]);
-    }
-    else {
-      leftTable.innerHTML = fishFormat(fish[id]);
-    }
-  }
-
-  function bugFormat (data) {
-
-    let mql = window.matchMedia('(max-width: 800px)');
-
-    if (mql.matches) {
-      return bugMobile(data);
-    }
-    else {
-      return bugWeb(data);
-    }
-
-  }
-
-  function fishFormat (data) {
-
-    let mql = window.matchMedia('(max-width: 800px)');
-
-    if (mql.matches) {
-      return fishMobile(data);
-    }
-    else {
-      return fishWeb(data);
+    switch (true) {
+      case (id in bugs && mql.matches):
+        leftTable.innerHTML = bugMobile(bugs[id]);
+        break;
+      case (id in bugs):
+        leftTable.innerHTML = bugWeb(bugs[id]);
+        break;
+      case (id in fish && mql.matches):
+        leftTable.innerHTML = fishMobile(fish[id]);
+        break;
+      default:
+        leftTable.innerHTML = fishWeb(fish[id]);
     }
 
   }
