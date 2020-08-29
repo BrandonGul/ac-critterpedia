@@ -1,6 +1,8 @@
 .bugsMobile {
   width: 300px;
   height: 300px;
+  margin: 0 auto;
+  table-layout: fixed;
   background: url(../images/acInsects.png);
   background-size: 1000%;
 }
