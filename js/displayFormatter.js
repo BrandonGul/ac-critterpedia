@@ -46,7 +46,7 @@ let bottom = `</tr><tr>
     <td style="padding: 0px"><div style="width: 100%; height: 2px; background-color: #2d2f09"></div></td>
     <td style="padding: 0px"><div style="width: 100%; height: 2px; background-color: #2d2f09"></div></td>
     <td style="padding: 0px"><div style="width: 100%; height: 2px; background-color: #2d2f09"></div></td>
-    <td style="padding: 0px"><div style="width: 100%; height: 2px; background-color: #2d2f09"></div></td></tr></tbody></table></td>`;
+    <td style="padding: 0px"><div style="width: 100%; height: 2px; background-color: #2d2f09"></div></td></tr></tbody></table>`;
 
 let tbody = `<table style="width: 100%; table-layout: fixed; margin: auto; position: relative; z-index: 1"><tbody><tr>
     <td style="color: #2d2f09">AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
@@ -92,7 +92,7 @@ function bugWeb(data) {
 
   str += timeFormatter(data);
 
-  str += bottom;
+  str += bottom + `</td>`;
 
   return str;
 
@@ -104,7 +104,15 @@ function fishWeb(data) {
 
   str += timeFormatter(data);
 
-  str += bottom;
+  str += bottom + `</td>` + `<tr>
+    <td style="border-bottom: 2px solid; border-left: 2px solid; border-color: #bfbaa3;">
+      <div style="background-color: #56902b61; display: inline-block; border-radius: 4px; margin-left: 30px; padding: 0">
+        <h1 style="padding-right: 10px; margin: 0; color: #2f422d">Location</h1>
+      </div>
+      <h1 style="margin: 0; margin-left: 20px;  color: #a29e89; display: inline-block; font-size: 1.8em">${data['location']}</h1>
+    </td>
+    <td style="border-right: 2px solid; border-bottom: 2px solid; border-left: 2px solid; border-color: #bfbaa3;"></td>
+  </tr>`;
 
   return str;
 
@@ -120,7 +128,7 @@ function bugMobile (data) {
 
   str += timeFormatter(data);
 
-  str += bottom;
+  str += bottom + `</td>`;
 
   return str;
 
@@ -136,7 +144,9 @@ function fishMobile (data) {
 
   str += timeFormatter(data);
 
-  str += bottom;
+  str += bottom + `<div style="background-color: #56902b61; display: inline-block; border-radius: 4px; margin-left: 30px; margin-top: 20px;">
+                   <h1 style="padding-right: 10px; margin: 0; color: #2f422d">Location</h1></div>
+                   <h1 style="margin: 0; margin-left: 20px;  color: #a29e89; display: inline-block; font-size: 1em">${data['location']}</h1></td>`;
 
   return str;
 
@@ -183,7 +193,7 @@ function timeFormatter(data) {
 function headerForWeb(id, data) {
   var newStr = "";
   let bugImage = `<div id="${data['id']}" class="bugs" style="margin: 0 auto; width: 450px; height: 450px; table-layout: fixed;"></div>`,
-      fishImage = `<div id="${data['id']}" class="fish" style="margin: 0 auto; width: 900x; height: 450px; table-layout: fixed;"></div>`,
+      fishImage = `<div id="${data['id']}" class="fish" style="margin: 0 auto; width: 900x; height: 520px; table-layout: fixed;"></div>`,
       tag = `<div style="background-color: clear; margin: 0 auto; display: table">
              <div style="background-color: white; display: inline-block; transform: rotate(-2deg); padding-left: 30px; padding-right: 30px; margin-top: 10px; margin-left: -3px;">
              <h3 style="background-color: white; margin-block-end: 10px; margin-block-start: 10px; font-size: 2em; color: #584f4f">${data['name']}</h3>
