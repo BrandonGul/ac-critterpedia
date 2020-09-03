@@ -92,7 +92,10 @@ function bugWeb(data) {
 
   str += timeFormatter(data);
 
-  str += bottom + `</td>`;
+  str += bottom + `<div style="background-color: #56902b61; display: inline-block; border-radius: 4px; margin-left: 30px; padding: 0; margin-top: 30px">
+    <h1 style="padding-right: 10px; margin: 0; color: #2f422d">Price</h1>
+  </div>
+  <h1 style="margin: 0; margin-left: 20px;  color: #a29e89; display: inline-block; font-size: 1.8em">${data['price']}</h1>` + `</td>`;
 
   return str;
 
@@ -111,7 +114,12 @@ function fishWeb(data) {
       </div>
       <h1 style="margin: 0; margin-left: 20px;  color: #a29e89; display: inline-block; font-size: 1.8em">${data['location']}</h1>
     </td>
-    <td style="border-right: 2px solid; border-bottom: 2px solid; border-left: 2px solid; border-color: #bfbaa3;"></td>
+    <td style="border-right: 2px solid; border-bottom: 2px solid; border-left: 2px solid; border-color: #bfbaa3;">
+      <div style="background-color: #56902b61; display: inline-block; border-radius: 4px; margin-left: 30px; padding: 0">
+        <h1 style="padding-right: 10px; margin: 0; color: #2f422d">Price</h1>
+      </div>
+      <h1 style="margin: 0; margin-left: 20px;  color: #a29e89; display: inline-block; font-size: 1.8em">${data['price']}</h1>
+    </td>
   </tr>`;
 
   return str;
@@ -128,7 +136,9 @@ function bugMobile (data) {
 
   str += timeFormatter(data);
 
-  str += bottom + `</td>`;
+  str += bottom + `<div style="background-color: #56902b61; display: inline-block; border-radius: 4px; margin-left: 30px; padding: 0; margin-top: 20px">
+                   <h1 style="padding-right: 10px; margin: 0; color: #2f422d">Price</h1></div>
+                   <h1 style="margin: 0; margin-left: 20px;  color: #a29e89; display: inline-block; font-size: 1">${data['price']}</h1></td>`;
 
   return str;
 
@@ -144,9 +154,12 @@ function fishMobile (data) {
 
   str += timeFormatter(data);
 
-  str += bottom + `<div style="background-color: #56902b61; display: inline-block; border-radius: 4px; margin-left: 30px; margin-top: 20px;">
+  str += bottom + `<div style="background-color: #56902b61; display: inline-block; border-radius: 4px; margin-left: 30px; margin-top: 10px;">
                    <h1 style="padding-right: 10px; margin: 0; color: #2f422d">Location</h1></div>
-                   <h1 style="margin: 0; margin-left: 20px;  color: #a29e89; display: inline-block; font-size: 1em">${data['location']}</h1></td>`;
+                   <h1 style="margin: 0; margin-left: 20px;  color: #a29e89; display: inline-block; font-size: 1em">${data['location']}</h1><br><br>
+                   <div style="background-color: #56902b61; display: inline-block; border-radius: 4px; margin-left: 30px; padding: 0; margin-top: 20px">
+                   <h1 style="padding-right: 10px; margin: 0; color: #2f422d">Price</h1></div>
+                   <h1 style="margin: 0; margin-left: 20px;  color: #a29e89; display: inline-block; font-size: 1">${data['price']}</h1></td>`;
 
   return str;
 
