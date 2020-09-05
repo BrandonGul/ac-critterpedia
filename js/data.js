@@ -4,7 +4,7 @@ let bugs = {
     'name': 'Common Butterfly',
     'calOn': [6, 7],
     'times': [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '160'
   },
   'yellowButterfly': {
@@ -12,7 +12,7 @@ let bugs = {
     'name': 'Yellow Butterfly',
     'calOn': [0, 1, 6, 7, 10, 11],
     'times': [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '160'
   },
   'tigerButterfly': {
@@ -20,7 +20,7 @@ let bugs = {
     'name': 'Tiger Butterfly',
     'calOn': [0, 1, 9, 10, 11],
     'times': [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '240'
   },
   'peacockButterfly': {
@@ -28,7 +28,7 @@ let bugs = {
     'name': 'Peacock Butterfly',
     'calOn': [0, 1, 6, 7, 8, 9, 10, 11],
     'times': [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying by Hybrid Flowers',
     'price' : '2,500'
   },
   'commonBluebottle': {
@@ -36,7 +36,7 @@ let bugs = {
     'name': 'Common Bluebottle',
     'calOn': [0, 1, 2, 8, 9, 10, 11],
     'times': [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '300'
   },
   'paperKiteButterfly': {
@@ -44,7 +44,7 @@ let bugs = {
     'name': 'Paper Kite Butterfly',
     'calOn': [],
     'times': [8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '1,000'
   },
   'greatPurpleEmperor': {
@@ -52,7 +52,7 @@ let bugs = {
     'name': 'Great Purple Emperor',
     'calOn': [0,1,2,3,8,9,10,11],
     'times': [4,5,6,7,8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '3,000'
   },
   'monachButterfly': {
@@ -60,7 +60,7 @@ let bugs = {
     'name': 'Monach Butterfly',
     'calOn': [0,1,2,3,4,5,6,7,11],
     'times': [4,5,6,7,8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '140'
   },
   'emperorButterfly': {
@@ -68,7 +68,7 @@ let bugs = {
     'name': 'Emperor Butterfly',
     'calOn': [3,4,9,10],
     'times': [17,18,19,20,21,22,23,24,0,1,2,3,4,5,6,7],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '4,000'
   },
   'agriasButterfly': {
@@ -76,7 +76,7 @@ let bugs = {
     'name': 'Agrias Butterfly',
     'calOn': [0,1,2,9,10,11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '3,000'
   },
   'rajaBrookesBirdwing': {
@@ -84,7 +84,7 @@ let bugs = {
     'name': 'Raja Brookes Birdwing',
     'calOn': [2,9,10],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '2,500'
   },
   'queenAlexandrasBirdwing': {
@@ -92,7 +92,7 @@ let bugs = {
     'name': 'Queen Alexandras Birdwing',
     'calOn': [0, 1, 2, 3, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '4,000'
   },
   'moth': {
@@ -100,7 +100,7 @@ let bugs = {
     'name': 'Moth',
     'calOn': [],
     'times': [0,1,2,3,19,20,21,22,23,24],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying by Light',
     'price' : '130'
   },
   'atlasMoth': {
@@ -108,7 +108,7 @@ let bugs = {
     'name': 'Atlas Moth',
     'calOn': [0, 1, 2, 9, 10, 11],
     'times': [0,1,2,3,19,20,21,22,23,24],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '3,000'
   },
   'madagascanSunsetMoth': {
@@ -116,7 +116,7 @@ let bugs = {
     'name': 'Madagascan Sunset Moth',
     'calOn': [0, 1, 2, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '2,500'
   },
   'longLocust': {
@@ -124,7 +124,7 @@ let bugs = {
     'name': 'Long Locust',
     'calOn': [0, 1, 2, 11],
     'times': [8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '200'
   },
   'migratoryLocust': {
@@ -132,7 +132,7 @@ let bugs = {
     'name': 'Migratory Locust',
     'calOn': [0, 1, 2, 3, 4, 5, 6, 11],
     'times': [8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '600'
   },
   'riceGrasshopper': {
@@ -140,7 +140,7 @@ let bugs = {
     'name': 'Rice Grasshopper',
     'calOn': [0, 1, 2, 3, 4, 5, 6, 11],
     'times': [8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '160'
   },
   'grasshopper': {
@@ -148,7 +148,7 @@ let bugs = {
     'name': 'Grasshopper',
     'calOn': [0, 1, 2, 3, 4, 5, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '160'
   },
   'cricket': {
@@ -156,7 +156,7 @@ let bugs = {
     'name': 'Cricket',
     'calOn': [0, 1, 2, 3, 4, 5, 6, 7, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '130'
   },
   'bellCricket': {
@@ -164,7 +164,7 @@ let bugs = {
     'name': 'Bell Cricket',
     'calOn': [0, 1, 2, 3, 4, 5, 6, 7, 10, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '430'
   },
   'mantis': {
@@ -172,7 +172,7 @@ let bugs = {
     'name': 'Mantis',
     'calOn': [0, 1, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'On Flowers',
     'price' : '430'
   },
   'orchidMantis': {
@@ -180,7 +180,7 @@ let bugs = {
     'name': 'Orchid Mantis',
     'calOn': [0, 1, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'On Flowers (White)',
     'price' : '2,400'
   },
   'honeybee': {
@@ -188,7 +188,7 @@ let bugs = {
     'name': 'Honeybee',
     'calOn': [0, 1, 7, 8, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '200'
   },
   'wasp': {
@@ -196,7 +196,7 @@ let bugs = {
     'name': 'Wasp',
     'calOn': [],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Shaking Trees',
     'price' : '2,500'
   },
   'brownCicada': {
@@ -204,7 +204,7 @@ let bugs = {
     'name': 'Brown Cicada',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '250'
   },
   'robustCicada': {
@@ -212,7 +212,7 @@ let bugs = {
     'name': 'Robust Cicada',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '300'
   },
   'giantCicada': {
@@ -220,7 +220,7 @@ let bugs = {
     'name': 'Giant Cicada',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '500'
   },
   'walkerCicada': {
@@ -228,7 +228,7 @@ let bugs = {
     'name': 'Walker Cicada',
     'calOn': [0, 1, 2, 3, 4, 5, 6, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '400'
   },
   'eveningCicada': {
@@ -236,7 +236,7 @@ let bugs = {
     'name': 'Evening Cicada',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [4,5,6,7,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '550'
   },
   'cicadaShell': {
@@ -244,7 +244,7 @@ let bugs = {
     'name': 'Cicada Shell',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '10'
   },
   'redDragonfly': {
@@ -252,7 +252,7 @@ let bugs = {
     'name': 'Red Dragonfly',
     'calOn': [0, 1, 2, 3, 4, 5, 6, 7, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '180'
   },
   'darnerDragonfly': {
@@ -260,7 +260,7 @@ let bugs = {
     'name': 'Darner Dragonfly',
     'calOn': [0, 1, 2, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '230'
   },
   'bandedDragonfly': {
@@ -268,7 +268,7 @@ let bugs = {
     'name': 'Banded Dragonfly',
     'calOn': [0, 1, 2, 3, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '4,500'
   },
   'damselfly': {
@@ -276,7 +276,7 @@ let bugs = {
     'name': 'Damselfly',
     'calOn': [2, 3, 4, 5, 6, 7, 8, 9],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '500'
   },
   'firefly': {
@@ -284,7 +284,7 @@ let bugs = {
     'name': 'Fire Fly',
     'calOn': [0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11],
     'times': [0,1,2,3,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '300'
   },
   'moleCricket': {
@@ -292,7 +292,7 @@ let bugs = {
     'name': 'Mole Cricket',
     'calOn': [5, 6, 7, 8, 9],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Underground',
     'price' : '500'
   },
   'pondskater': {
@@ -300,7 +300,7 @@ let bugs = {
     'name': 'Pondskater',
     'calOn': [0, 1, 2, 3, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'On Ponds and Rivers',
     'price' : '130'
   },
   'divingBeetle': {
@@ -308,7 +308,7 @@ let bugs = {
     'name': 'Diving Beetle',
     'calOn': [0, 1, 2, 3, 9, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'On Ponds and Rivers',
     'price' : '800'
   },
   'giantWaterBug': {
@@ -316,7 +316,7 @@ let bugs = {
     'name': 'Giant Water Bug',
     'calOn': [0, 1, 2, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Ponds and Rivers',
     'price' : '2,000'
   },
   'stinkbug': {
@@ -324,7 +324,7 @@ let bugs = {
     'name': 'Stinkbug',
     'calOn': [0, 1, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Flowers',
     'price' : '120'
   },
   'man-facedStinkBug': {
@@ -332,7 +332,7 @@ let bugs = {
     'name': 'Man Faced Stinkbug',
     'calOn': [0, 1, 10, 11],
     'times': [0,1,2,3,4,5,6,7,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Flowers',
     'price' : '1,000'
   },
   'ladybug': {
@@ -340,7 +340,7 @@ let bugs = {
     'name': 'LadyBug',
     'calOn': [0, 1, 6, 7, 8, 10, 11],
     'times': [8,9,10,11,12,13,14,15,16],
-    'location': 'PLACEHOLDER',
+    'location': 'On Flowers',
     'price' : '200'
   },
   'tigerBeetle': {
@@ -348,7 +348,7 @@ let bugs = {
     'name': 'Tiger Beetle',
     'calOn': [0, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '1,500'
   },
   'jewelBeetle': {
@@ -356,7 +356,7 @@ let bugs = {
     'name': 'Jewel Beetle',
     'calOn': [0, 1, 2, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Tree Stumps',
     'price' : '2,400'
   },
   'violinBeetle': {
@@ -364,7 +364,7 @@ let bugs = {
     'name': 'Violin Beetle',
     'calOn': [0, 1, 2, 3, 6, 7, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Tree Stumps',
     'price' : '450'
   },
   'citrusLong-hornedBeetle': {
@@ -372,7 +372,7 @@ let bugs = {
     'name': 'Citrus Long Horned Beetle',
     'calOn': [],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Tree Stumps',
     'price' : '350'
   },
   'rosaliaBatesiBeetle': {
@@ -380,7 +380,7 @@ let bugs = {
     'name': 'Rosalia Batesi Beetle',
     'calOn': [0, 1, 2, 3, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Tree Stumps',
     'price' : '3,000'
   },
   'blueWeevilBeetle': {
@@ -388,7 +388,7 @@ let bugs = {
     'name': 'Blue Weevil Beetle',
     'calOn': [0, 1, 2, 3, 4, 5, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees (Coconut)',
     'price' : '800'
   },
   'dungBeetle': {
@@ -396,7 +396,7 @@ let bugs = {
     'name': 'Dung Beetle',
     'calOn': [2, 3, 4, 5, 6, 7, 8, 9, 10],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground (rolling snowballs)',
     'price' : '3,000'
   },
   'earth-boringDungBeetle': {
@@ -404,7 +404,7 @@ let bugs = {
     'name': 'Earth Boring Dung Beetle',
     'calOn': [0, 1, 2, 3, 4, 5, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '300'
   },
   'scarabBeetle': {
@@ -412,7 +412,7 @@ let bugs = {
     'name': 'Scarab Beetle',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '10,000'
   },
   'droneBeetle': {
@@ -420,7 +420,7 @@ let bugs = {
     'name': 'Drone Beetle',
     'calOn': [0, 1, 2, 3, 4, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '200'
   },
   'goliathBeetle': {
@@ -428,7 +428,7 @@ let bugs = {
     'name': 'Goliath Beetle',
     'calOn': [0, 1, 2, 3, 4, 5, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees (Coconut)',
     'price' : '8,000'
   },
   'sawStag': {
@@ -436,7 +436,7 @@ let bugs = {
     'name': 'Saw Stag',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '2,000'
   },
   'miyamaStag': {
@@ -444,7 +444,7 @@ let bugs = {
     'name': 'Miyama Stag',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '1,000'
   },
   'giantStag': {
@@ -452,7 +452,7 @@ let bugs = {
     'name': 'Giant Stag',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '10,000'
   },
   'rainbowStag': {
@@ -460,7 +460,7 @@ let bugs = {
     'name': 'Rainbow Stag',
     'calOn': [0, 1, 2, 3, 4, 5, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '6,000'
   },
   'cyclommatusStag': {
@@ -468,7 +468,7 @@ let bugs = {
     'name': 'Cyclommatus Staf',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees (Coconut)',
     'price' : '8,000'
   },
   'goldenStag': {
@@ -476,7 +476,7 @@ let bugs = {
     'name': 'Golden Stag',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees (Coconut)',
     'price' : '12,000'
   },
   'giraffeStag': {
@@ -484,7 +484,7 @@ let bugs = {
     'name': 'Giraffe Stag',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees (Coconut)',
     'price' : '12,000'
   },
   'hornedDynastid': {
@@ -492,7 +492,7 @@ let bugs = {
     'name': 'Horned Dynastid',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '1,350'
   },
   'hornedAtlas': {
@@ -500,7 +500,7 @@ let bugs = {
     'name': 'Horned Atlas',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees (Coconut)',
     'price' : '8,000'
   },
   'hornedElephant': {
@@ -508,7 +508,7 @@ let bugs = {
     'name': 'Horned Elephant',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees (Coconut)',
     'price' : '8,000'
   },
   'hornedHerucles': {
@@ -516,7 +516,7 @@ let bugs = {
     'name': 'Horned Herucles',
     'calOn': [0, 1, 2, 3, 4, 5, 8, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees (Coconut)',
     'price' : '12,000'
   },
   'walkingStick': {
@@ -524,7 +524,7 @@ let bugs = {
     'name': 'Walking Stick',
     'calOn': [0, 1, 2, 3, 4, 5, 11],
     'times': [4,5,6,7,17,18],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trees',
     'price' : '600'
   },
   'walkingLeaf': {
@@ -532,7 +532,7 @@ let bugs = {
     'name': 'Walking Leaf',
     'calOn': [0, 1, 2, 3, 4, 5, 9, 10, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Under Trees Disguised as Leaves',
     'price' : '600'
   },
   'bagworm': {
@@ -540,7 +540,7 @@ let bugs = {
     'name': 'Bag Worm',
     'calOn': [],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Shaking Trees',
     'price' : '600'
   },
   'ant': {
@@ -548,7 +548,7 @@ let bugs = {
     'name': 'Ant',
     'calOn': [],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On rotten food',
     'price' : '80'
   },
   'hermitCrab': {
@@ -556,7 +556,7 @@ let bugs = {
     'name': 'Hermit Crab',
     'calOn': [],
     'times': [0,1,2,3,4,5,6,7,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Beach disguised as Shells',
     'price' : '1,000'
   },
   'wharfRoach': {
@@ -564,7 +564,7 @@ let bugs = {
     'name': 'Wharf Roach',
     'calOn': [],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Beach Rocks',
     'price' : '200'
   },
   'fly': {
@@ -572,7 +572,7 @@ let bugs = {
     'name': 'Fly',
     'calOn': [],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Trash Items',
     'price' : '60'
   },
   'mosquito': {
@@ -580,7 +580,7 @@ let bugs = {
     'name': 'Mosquito',
     'calOn': [0, 1, 2, 3, 4, 9, 10, 11],
     'times': [0,1,2,3,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Flying',
     'price' : '130'
   },
   'flea': {
@@ -588,7 +588,7 @@ let bugs = {
     'name': 'Flea',
     'calOn': [0, 1, 2, 11],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Villager\'s Heads',
     'price' : '70'
   },
   'Snail': {
@@ -596,7 +596,7 @@ let bugs = {
     'name': 'Snail',
     'calOn': [],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On Rocks and Bushes (Rain)',
     'price' : '250'
   },
   'pillBug': {
@@ -604,7 +604,7 @@ let bugs = {
     'name': 'Pill Bug',
     'calOn': [6, 7],
     'times': [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Hitting Rocks',
     'price' : '250'
   },
   'centipede': {
@@ -612,7 +612,7 @@ let bugs = {
     'name': 'Centipede',
     'calOn': [6, 7],
     'times': [16,17,18,19,20,21,22],
-    'location': 'PLACEHOLDER',
+    'location': 'Hitting Rocks',
     'price' : '300'
   },
   'spider': {
@@ -620,7 +620,7 @@ let bugs = {
     'name': 'Spider',
     'calOn': [],
     'times': [0,1,2,3,4,5,6,7,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'Shaking Trees',
     'price' : '600'
   },
   'tarantula': {
@@ -628,7 +628,7 @@ let bugs = {
     'name': 'Tarantula',
     'calOn': [4, 5, 6, 7, 8, 9],
     'times': [0,1,2,3,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '8,000'
   },
   'scorpion': {
@@ -636,7 +636,7 @@ let bugs = {
     'name': 'Scorpion',
     'calOn': [0, 1, 2, 3, 10, 11],
     'times': [0,1,2,3,19,20,21,22,23],
-    'location': 'PLACEHOLDER',
+    'location': 'On the Ground',
     'price' : '8,000'
   }
 }
